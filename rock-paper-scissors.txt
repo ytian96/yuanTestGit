@@ -1,0 +1,23 @@
+Notes: Feel free to just do this activity on one person's repository. We will be
+going over merge conflicts and how to resolve them using GitHub Desktop!
+Remember, a merge conflict happens when two or more people make an edit on the 
+same file and Git doesn't know which change to keep!
+
+In this activity, you will play 5 games of rock paper scissors with your 
+partner. Don't look at each other screens, but when you both have your answer 
+written directly after the game # (either yourname - rock, yourname - paper, or
+yourname - scissors), feel free to push at the same time. You will run into a 
+merge conflict! Solve the merge conflict by keeping the winning hand. 
+Then repeat 4 more times. Who won the best of five? :D
+
+===
+
+Game 1:
+
+Game 2: 
+
+Game 3:
+
+Game 4:
+
+Game 5:
